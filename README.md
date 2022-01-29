@@ -23,9 +23,9 @@ This line chart shows that urban cities had the highest total fares for each wee
 There is a description of the differences in ride-sharing data among the different city types. Ride-sharing data include the total rides, total drivers, total fares, average fare per ride and driver, and total fare by city type
 
 Ridesharing Data Summary:
-![deliverable_1]( )
+![deliverable_1](https://github.com/saraegregg/Mod5_Pyber_Analysis/blob/main/images/deliverable_1.png)
 
-![PyBer_fare_summary.png]( )
+![PyBer_fare_summary.png](https://github.com/saraegregg/Mod5_Pyber_Analysis/blob/main/analysis/PyBer_fare_summary.png)
 
 ## Summary
 There is a statement summarizing three business recommendations to the CEO for addressing any disparities among the city types.
